@@ -3,7 +3,7 @@ Malware that uses the Nostr-protocol as a communication channel.
 
 > [!CAUTION]
 > ### WARNING
-> The code in this profile has been written for research purposes and ethical use only. Run any code associated only on machines YOU OWN and in Sandboxed environments. <br>
+> The code in this repository has been written for research purposes and ethical use only. Run any code associated only on machines YOU OWN and in Sandboxed environments. <br>
 
 ## Inside:
 
